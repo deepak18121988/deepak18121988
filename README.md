@@ -8,7 +8,6 @@ I am a self-taught Individual full stack developer, specialized in Web design an
 MY EXPERTISE AND MY SKILLS::
 - MVC Frameworks: Laravel 11, Laravel 8, Laravel 5, Codeigniter, Testigniter. 
 - Front-end Framework:Bootstrap3, jQuery, HTML5, CSS3
-- Designing skills (Photoshop)
 - PSD to HTML(Responsive web page)
 - UI & UX 
 - Single Landing page Websites
