@@ -1,33 +1,21 @@
-### Hi there 👋, I'm Deepak Lohani  #### Full-Stack Developer
-#### Laravel, Codeigniter and PHP Developer
 
-I am Deepak Lohani. Working as a Full-Stack Developer (PHP-Laravel-Codeigniter-PSD to HTML)
+ ##                                 A Passionate Web Developer
+## 🌐 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100055014698718) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-hamidul-islam-66ba38121/) 
 
-I am a self-taught Individual full stack developer, specialized in Web design and PHP for back end development. I've 6+ year experience in creating scalable and high load web applications and I'm mostly specialized in the following technologies:
+# 💻 Languages and Tools:
 
-MY EXPERTISE AND MY SKILLS::
-- MVC Frameworks: Laravel 11, Laravel 8, Laravel 5, Codeigniter, Testigniter. 
-- Front-end Framework:Bootstrap3, jQuery, HTML5, CSS3
-- PSD to HTML(Responsive web page)
-- UI & UX 
-- Single Landing page Websites
-- API : Google maps ,Facebook,Twitter,Google plus
-- Payment: PayPal,PayPal recurring payment, PayPal credit card payment ,PayPal recurring and credit card payment. Stripe, PayUmany.
-- Script: JavaScript,JQuery,Ajax
-- Server: Go daddy ,google cloud, digital ocean
-- Version Control: Git, GitHub, Bit-bucket, SVN,Sublime text editor Ubuntu,Google chrome, Safari and Firefox
-- Database: MySQL, PostgreSQL
-- Custom PHP
-- Plugins and Themes
-- Company Profiles
-- Portfolio
-- Portals/ Management Systems
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,mysql,html,css,bootstrap,jquery,postman,vscode,bash,git)](https://skillicons.dev)
 
-In portfolio, are a few of the websites that I’ve developed. I believe my strong points are my creativeness and punctuality. My first goal will always be to meet your needs and deadline. When working on a new project, I like to speak with the client so that I can have a clear understanding of his/her needs and vision of the project.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepak18121988&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deepak18121988&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak18121988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My Availability:- 24*7 for your assignment. 40+ hrs/week. Skype, hangout, Slack etc.
-Thanks for Reviewing My Profile
-DEEPAK LOHANI
-- 🔭 I’m currently working .....
-- 🌱 I’m currently learning React js 
-- 💬 Ask me about Web Development 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepak18121988&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=deepak18121988&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
