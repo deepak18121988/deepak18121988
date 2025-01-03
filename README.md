@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Deepak Lohani  #### Full-Stack Developer
-#### Laravel Developer, Codeigniter
+#### Laravel, Codeigniter and PHP Developer
 
 I am Deepak Lohani. Working as a Full-Stack Developer (PHP-Laravel-Codeigniter-PSD to HTML)
 
