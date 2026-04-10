@@ -1,21 +1,85 @@
+# 👋 Hi, I'm Deepak Lohani
 
- ##                                 A Passionate Web Developer
-## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100002405943893) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-lohani-a03204a5/) 
-
-# 💻 Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,mysql,html,css,bootstrap,jquery,postman,vscode,bash,git)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepak18121988&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepak18121988&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak18121988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepak18121988&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💻 **Full Stack Web Developer | Laravel Expert | Upwork Freelancer**
+🚀 7+ Years Experience in Building Scalable Web Applications
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepak18121988&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 What I Do (Client-Focused)
+
+I help businesses build **secure, scalable, and high-performance web applications** that actually solve real problems.
+
+✔ Custom Web Application Development
+✔ REST API Development & Integration
+✔ Admin Panel & Backend Systems
+✔ CRM / CMS Development
+✔ Payment Gateway Integration (Stripe, etc.)
+✔ Bug Fixing & Performance Optimization
+
+---
+
+## 🧠 My Core Expertise
+
+🔹 **Backend:** PHP, Laravel, CodeIgniter
+🔹 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
+🔹 **Database:** MySQL
+🔹 **Other:** REST APIs, JSON, XML, OAuth
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 Custom CRM System
+
+* Built complete CRM for business automation
+* Role-based access system
+* Optimized database performance
+
+👉 GitHub Repo: (add link)
+
+---
+
+### 🔹 E-commerce Backend System
+
+* Payment gateway integration
+* Order & user management system
+* Secure authentication
+
+👉 GitHub Repo: (add link)
+
+---
+
+### 🔹 REST API Development
+
+* Developed scalable APIs
+* Integrated third-party services
+* Optimized response time
+
+👉 GitHub Repo: (add link)
+
+---
+
+## ⭐ Why Clients Hire Me
+
+✔ Clean & maintainable code
+✔ Focus on performance & security
+✔ Fast communication & delivery
+✔ Long-term client support
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=deepak18121988\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+---
+
+## 🌐 Work With Me
+
+💼 Upwork Profile: https://www.upwork.com/freelancers/~01a2d12eebc0bab285
+🔗 LinkedIn: https://www.linkedin.com/in/deepak-lohani-a03204a5/
+📘 Facebook: https://www.facebook.com/profile.php?id=100002405943893
+
+---
+
+💡 *Available for freelance projects — let’s build something great together!*
