@@ -1,85 +1,86 @@
-# 👋 Hi, I'm Deepak Lohani
+<h1 align="center">Hi 👋, I'm Deepak Lohani</h1>
+<h3 align="center">💻 Full Stack Web Developer | Laravel Expert | Upwork Freelancer</h3>
 
-💻 **Full Stack Web Developer | Laravel Expert | Upwork Freelancer**
-🚀 7+ Years Experience in Building Scalable Web Applications
-
----
-
-## 🔥 What I Do (Client-Focused)
-
-I help businesses build **secure, scalable, and high-performance web applications** that actually solve real problems.
-
-✔ Custom Web Application Development
-✔ REST API Development & Integration
-✔ Admin Panel & Backend Systems
-✔ CRM / CMS Development
-✔ Payment Gateway Integration (Stripe, etc.)
-✔ Bug Fixing & Performance Optimization
+<p align="center">
+🚀 7+ Years Experience | ⚡ Web Applications | 🔗 API Development
+</p>
 
 ---
 
-## 🧠 My Core Expertise
+## 🔥 What I Do
 
-🔹 **Backend:** PHP, Laravel, CodeIgniter
-🔹 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
-🔹 **Database:** MySQL
-🔹 **Other:** REST APIs, JSON, XML, OAuth
+I help businesses build **secure, scalable, and high-performance web applications**.
+
+* Custom Web Application Development
+* REST API Development & Integration
+* CRM / Admin Panel Development
+* Payment Gateway Integration
+* Bug Fixing & Performance Optimization
+
+---
+
+## 🧠 Tech Stack
+
+**Backend:** PHP, Laravel, CodeIgniter
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
+**Database:** MySQL
+**Tools:** Git, Postman, VS Code
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔹 Custom CRM System
+### 🔹 CRM System
 
-* Built complete CRM for business automation
-* Role-based access system
-* Optimized database performance
+* Role-based authentication
+* Business automation features
+* Optimized database queries
 
-👉 GitHub Repo: (add link)
+👉 https://github.com/deepak18121988/YOUR-REPO
 
 ---
 
-### 🔹 E-commerce Backend System
+### 🔹 E-commerce System
 
 * Payment gateway integration
-* Order & user management system
+* Order management system
 * Secure authentication
 
-👉 GitHub Repo: (add link)
+👉 https://github.com/deepak18121988/YOUR-REPO
 
 ---
 
 ### 🔹 REST API Development
 
-* Developed scalable APIs
-* Integrated third-party services
-* Optimized response time
+* Third-party integrations
+* Fast & scalable backend
 
-👉 GitHub Repo: (add link)
+👉 https://github.com/deepak18121988/YOUR-REPO
 
 ---
 
-## ⭐ Why Clients Hire Me
+## ⭐ Why Clients Choose Me
 
-✔ Clean & maintainable code
-✔ Focus on performance & security
-✔ Fast communication & delivery
-✔ Long-term client support
+* Clean & maintainable code
+* Fast delivery
+* Clear communication
+* Long-term support
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=deepak18121988\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak18121988&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Work With Me
+## 🌐 Connect With Me
 
-💼 Upwork Profile: https://www.upwork.com/freelancers/~01a2d12eebc0bab285
-🔗 LinkedIn: https://www.linkedin.com/in/deepak-lohani-a03204a5/
-📘 Facebook: https://www.facebook.com/profile.php?id=100002405943893
+* 💼 Upwork: https://www.upwork.com/freelancers/~01a2d12eebc0bab285
+* 🔗 LinkedIn: https://www.linkedin.com/in/deepak-lohani-a03204a5/
 
 ---
 
-💡 *Available for freelance projects — let’s build something great together!*
+🔥 *Available for freelance work — let’s build something amazing!*
