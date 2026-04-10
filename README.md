@@ -1,86 +1,21 @@
-<h1 align="center">Hi 👋, I'm Deepak Lohani</h1>
-<h3 align="center">💻 Full Stack Web Developer | Laravel Expert | Upwork Freelancer</h3>
 
-<p align="center">
-🚀 7+ Years Experience | ⚡ Web Applications | 🔗 API Development
-</p>
+ ##                                 A Passionate Web Developer
+## 🌐 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100002405943893) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-lohani-a03204a5/) 
 
----
+# 💻 Languages and Tools:
 
-## 🔥 What I Do
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,mysql,html,css,bootstrap,jquery,postman,vscode,bash,git)](https://skillicons.dev)
 
-I help businesses build **secure, scalable, and high-performance web applications**.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepak18121988&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deepak18121988&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak18121988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* Custom Web Application Development
-* REST API Development & Integration
-* CRM / Admin Panel Development
-* Payment Gateway Integration
-* Bug Fixing & Performance Optimization
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepak18121988&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=deepak18121988&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Tech Stack
-
-**Backend:** PHP, Laravel, CodeIgniter
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
-**Database:** MySQL
-**Tools:** Git, Postman, VS Code
-
----
-
-## 💼 Featured Projects
-
-### 🔹 CRM System
-
-* Role-based authentication
-* Business automation features
-* Optimized database queries
-
-👉 https://github.com/deepak18121988/YOUR-REPO
-
----
-
-### 🔹 E-commerce System
-
-* Payment gateway integration
-* Order management system
-* Secure authentication
-
-👉 https://github.com/deepak18121988/YOUR-REPO
-
----
-
-### 🔹 REST API Development
-
-* Third-party integrations
-* Fast & scalable backend
-
-👉 https://github.com/deepak18121988/YOUR-REPO
-
----
-
-## ⭐ Why Clients Choose Me
-
-* Clean & maintainable code
-* Fast delivery
-* Clear communication
-* Long-term support
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak18121988&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-* 💼 Upwork: https://www.upwork.com/freelancers/~01a2d12eebc0bab285
-* 🔗 LinkedIn: https://www.linkedin.com/in/deepak-lohani-a03204a5/
-
----
-
-🔥 *Available for freelance work — let’s build something amazing!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
