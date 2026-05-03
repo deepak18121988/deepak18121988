@@ -9,11 +9,14 @@
 
 I specialize in building **secure and scalable payment systems** using Laravel.
 
-- ✔ Stripe Payment Gateway Integration (PaymentIntent, Checkout, Subscriptions)  
-- ✔ Custom Payment Flow (No Stripe Hosted Page)  
-- ✔ Webhook Integration & Payment Verification  
-- ✔ API Development & Third-Party Integrations  
-- ✔ Fixing Payment Issues & Failed Transactions  
+- ✔ Scalable Laravel Admin Panels with Custom Authentication
+- ✔ Role-Based Access Control (RBAC)
+- ✔ Secure Payment Gateway Integration (Stripe, Razorpay, PayPal)
+- ✔ Custom Payment Workflows (PaymentIntent, Subscriptions)
+- ✔ Webhooks & Payment Verification Systems
+- ✔ REST APIs & Third-Party Integrations
+- ✔ Dynamic AJAX CRUD Interfaces
+- ✔ Debugging & Performance Optimization
 
 ---
 
@@ -34,6 +37,26 @@ https://github.com/deepak18121988/laravel-stripe-payment-intent-checkout-webhook
 ✔ Backend-verified payments (secure)
 ✔ Clean architecture
 ✔ Ready-to-use project
+
+---
+
+### 🔐 Laravel Custom Auth Admin Panel (Repository Pattern)
+
+A complete Laravel project demonstrating custom authentication and role-based admin panel:
+
+* Admin & User Roles (Role-Based Access)
+* Repository Pattern + Service Layer
+* AJAX CRUD (Users & Roles)
+* SweetAlert Notifications
+* Bootstrap UI (No NPM)
+
+👉 View Project:
+https://github.com/deepak18121988/laravel-custom-auth-admin-panel-repository-pattern
+
+✔ Clean architecture (scalable)
+✔ No page reload (AJAX)
+✔ Beginner-friendly + production-ready
+✔ Perfect for real-world admin systems
 
 ---
 
